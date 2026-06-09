@@ -1,2 +1,2 @@
-This repository contains all assignment submissions and coursework files for evaluation purposes.
-ROLL NO: CSB24065
+Create a simple React component that maintains a list of todos using useState.
+Allow the user to add a todo and display all added todos on the screen.
