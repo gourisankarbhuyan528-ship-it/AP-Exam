@@ -1,1 +1,1 @@
-#AP Exam Assignments
+This repository contains all assignment submissions and coursework files for evaluation purposes.
